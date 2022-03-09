@@ -16,7 +16,3 @@ void loop()
   digitalWrite(5, LOW);
   delay(1000); // Wait for 1000 millisecond(s)
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
